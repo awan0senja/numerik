@@ -18,3 +18,5 @@ plt.title("Kurva kedua")
 
 plt.suptitle("Belajar menggambar kurva")
 plt.show()
+
+#Sumber: https://towardsdatascience.com/matplotlib-tutorial-learn-basics-of-pythons-powerful-plotting-library-b5d1b8f67596
