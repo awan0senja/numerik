@@ -13,3 +13,5 @@ plt.title("Grafik Linier")
 plt.xlabel("Kuadrat")
 plt.ylabel("Sumbu X")
 plt.show()
+
+#Sumber: https://towardsdatascience.com/matplotlib-tutorial-learn-basics-of-pythons-powerful-plotting-library-b5d1b8f67596
