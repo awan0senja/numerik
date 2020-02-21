@@ -43,3 +43,5 @@ plt.xticks(index,div)
 plt.suptitle("Kondisi Perbandingan")
 plt.legend(loc="best")
 plt.show()
+
+#Sumber: https://towardsdatascience.com/matplotlib-tutorial-learn-basics-of-pythons-powerful-plotting-library-b5d1b8f67596
